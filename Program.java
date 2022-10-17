@@ -5,7 +5,8 @@
  * of a circle knowing the radius in meter.
  *
  * Copyright 2020 Daifer Ramirez <dramirez20@ilg.cat>
- *
+ *Primer cambio
+*segundo cambio
  * This is free software, licensed under the GNU General Public License v3.
  * See http://www.gnu.org/licenses/gpl.html for more information.
  */
