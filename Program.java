@@ -1,6 +1,8 @@
 /*
+
+*este es el mayor cambio que hare a la humanidad
  * Program.java        20.10.2020
- *
+ *Daifer es el rey del copyright tu sabe ma nigga
  * Program to calculate the area and the perimeter
  * of a circle knowing the radius in meter.
  *
@@ -26,7 +28,9 @@ public class Program {
 		return Math.PI * Math.pow(radius, 2);
 	}
 
+
 	/**
+		*Aqui esta el codigo para poner una coma en lugar de un punto.
 	 * Calculates the perimeter of a circle
 	 * 
 	 * @param radius is a double numbers
