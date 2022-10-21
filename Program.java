@@ -25,6 +25,8 @@ public class Program {
         }
 
         /**
+	*Modifica el programa perquè el perímetre també es mostri amb dos decimals i el indicador de
+metres al final del nombre.
          * Calculates the perimeter of a circle
          *
          * @param radius is a double numbers
